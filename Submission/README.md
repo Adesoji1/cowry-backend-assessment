@@ -1,6 +1,6 @@
 Below is a **comprehensive** response covering each of the questions mentioned [here](https://smartapply.indeed.com/beta/indeedapply/form/questions/1) but look at the scrrenshot below:
 
-![img](./Submission/questions.png)
+![img](./questions.png)
 
 1. **Using the same database** for both services, I asked this question myself 
 2. **Scaling** the infrastructure in the future,  
@@ -109,8 +109,7 @@ I noticed that the Admin service **directly** calls `requests.post()` / `request
 
 ## 5. Run The Application?
 
-- **kindly**: view the screenshots in the screenshot folder  of the Task project operation . to test this application, in the root directory ,  in addition , for the database, make sure you include the `root.crt` at Submission/admin_service/root.crt then
-
+- **kindly**: view the screenshots in the screenshot folder  of the Task project operation . to test this application, in the root directory , 
 
 run
 
